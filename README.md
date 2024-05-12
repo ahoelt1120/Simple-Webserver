@@ -5,7 +5,7 @@ Contact: ahoelting1120@gmail.com
 
 # Description
 
-Created a simple webserver that can be run on a local machine using Docker
+A simple webserver that can be run on a local machine using Docker. This project was created for a class at the University of Oregon.
 
 # Running the program 
 
